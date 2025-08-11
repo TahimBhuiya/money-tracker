@@ -37,3 +37,8 @@ Designing a clean, compact UI was key to making the tracker easy to use. Balance
 
 **Synchronizing Frontend and Backend Data**
 Another challenge was ensuring that when a user added a transaction, the frontend state updated in sync with the backend database. Handling asynchronous fetch requests and updating state without losing the new transaction data required careful sequencing of API calls and state updates.
+
+
+## License
+
+    Copyright [2025] [Tahim Bhuiya]
