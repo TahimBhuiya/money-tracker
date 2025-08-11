@@ -21,6 +21,15 @@ The following **additional** features are implemented:
 - [x] **Dates and times are formatted into a more readable format**
 - [x] **Backend integration with Node.js/Express and MongoDB for persistent data storage**
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+![Money-Tracker Display](src/images/money-tracker.gif)
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
+
 
 ## Notes
 
